@@ -22,9 +22,9 @@ After cloning,run:
 composer install
 ```
 
-Duplicate `.env.example` and rename it `.env`
-Then update the database properties with your database config
-After that import the villabooking.sql file into your database
+Duplicate `.env.example` and rename it `.env`.
+Then update the database properties with your database config.
+After that, import the villabooking.sql SQL file into your database engin.
 
 Then run:
 
