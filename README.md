@@ -1,6 +1,6 @@
 # Laravel-Booking_app
 
-Develope an exclusive villa-booking SPA (Single Program Application) with Laravel/Vue.js which enables users to book desirable villa from a list, check its availability in preferred time, share a review, advertise a case of villa and also having good search capabilities. 
+Develop an exclusive villa-booking SPA (Single Program Application) with Laravel/Vue.js which enables users to book desirable villa from a list, check its availability in preferred time, share a review, advertise a case of villa and also having good search capabilities. 
 
 ## Getting Started
 
